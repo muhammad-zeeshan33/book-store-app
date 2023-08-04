@@ -44,9 +44,9 @@ The Bookstore App is a web application built with React and TypeScript. It allow
 ## Technologies Used
 The Bookstore App is built using the following technologies:
 
-React
-TypeScript
-Recoil (for state management)
+- React
+- TypeScript
+- Recoil (for state management)
 
 
 
