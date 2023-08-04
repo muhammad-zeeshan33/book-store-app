@@ -26,20 +26,20 @@ The Bookstore App is a web application built with React and TypeScript. It allow
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bookstore-app.git   
+   git clone https://github.com/muhammad-zeeshan33/bookstore-app.git   
 
 
 2. Navigate to the project directory:
-  ```sh
-    cd bookstore-app
+   ```sh
+   cd bookstore-app
 
 3. Install dependencies:
    ```sh
    npm install
 
 4. Start the development server:
-    ```sh
-    npm start
+   ```sh
+   npm start
 
 ## Technologies Used
 The Bookstore App is built using the following technologies:
