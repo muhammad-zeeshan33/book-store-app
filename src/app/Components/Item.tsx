@@ -3,9 +3,9 @@ import cover from '../../assets/images/cover.svg'
 const BookItem: React.FC<BookItemProps> = (props) => {
   const {book} = props
   return (
-    <div className='w-[300px] md:w-[350px]'>    
+    <div className='w-[250px] md:w-[350px]'>    
          <div className="w-full relative">
-            <img src={cover} alt="" className='w-[300px] md:w-[350px]'  />
+            <img src={cover} alt="" className='w-[250px] md:w-[350px]'  />
         </div>
         <div className='px-5 py-2 text-left'>
             <h3 className='overflow-hidden truncate whitespace-nowrap font-notoKr text-lg font-bold leading-tight tracking-tighter '>{book.title}</h3>
